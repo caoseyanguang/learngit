@@ -9,3 +9,5 @@ add merge.
 
 issue-101
 mixed.
+
+Color test.
